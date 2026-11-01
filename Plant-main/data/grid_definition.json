@@ -1,0 +1,29 @@
+{
+  "rows": 291070,
+  "exclusive_loss_rows": 14410,
+  "neighbor_species_columns": {
+    "0": "Aristida fendleriana",
+    "1": "Aristida longiseta",
+    "2": "Artemisia dracunculus",
+    "3": "Artemisia frigida",
+    "4": "Artemisia ludoviciana",
+    "5": "Bouteloua gracilis",
+    "6": "Buchloe dactyloides",
+    "7": "Carex eleocharis",
+    "8": "Carex filifolia",
+    "9": "Ceratoides lanata",
+    "10": "Eriogonum effusum",
+    "11": "Monroa squarrosa",
+    "12": "Muhlenbergia torreyi",
+    "13": "Opuntia polyacantha",
+    "14": "Schedonnardus paniculatus",
+    "15": "Sitanion hystrix",
+    "16": "Sporobolus cryptandrus",
+    "17": "Stipa comata"
+  },
+  "unit": "quadrat-year-species-cell; repeated observations are not independent",
+  "uncertainty": "any positive uncertain polygon at t0 prevents A-only status; uncertain t1 kept separately",
+  "definition": "positive polygon intersection; optional >=1% for identified species",
+  "original_plan": "10cm; 8 neighboring cells (centers 10 or 14.1cm apart); edge denominator 3 or 5",
+  "prediction_population": "all confirmed A-only cells at t; do not select on future A loss"
+}

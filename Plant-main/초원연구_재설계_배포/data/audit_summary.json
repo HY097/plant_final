@@ -1,0 +1,33 @@
+{
+  "expected_quadrat_years": 336,
+  "observed_quadrat_years": 324,
+  "missing_quadrat_years": 12,
+  "consecutive_pairs": 288,
+  "shapefiles": 647,
+  "cover_records": 105155,
+  "density_records": 28243,
+  "status_counts": {
+    "observed_records": 647,
+    "missing_observation": 24,
+    "observed_empty": 1
+  },
+  "invalid_geometries": 438,
+  "outside_geometries": 9236,
+  "outside_area_m2": 0.04077442944239967,
+  "max_abs_area_sum_difference_m2": 1.2878587085651816e-14,
+  "species_counts_mismatch_files": 0,
+  "identified_polygon_species": 18,
+  "genus_only_polygon_labels": [
+    "Aristida spp.",
+    "Carex spp."
+  ],
+  "unresolved_polygon_labels": [
+    "BOGR/BUDA",
+    "BOGR/BUDA/CAEL",
+    "BOGR/CAEL",
+    "BOGR/SIHY",
+    "Crown",
+    "Mixed grass",
+    "Unknown"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "legacy_grid_transition_rows_reconciled": 4490,
+  "initial_and_lost_counts_exact_match": true,
+  "exclusive_start_has_no_other_or_uncertain": true,
+  "test_years": [
+    2007,
+    2009
+  ],
+  "paired_predictions_complete": true
+}

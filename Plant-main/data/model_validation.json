@@ -1,0 +1,84 @@
+{
+  "train": {
+    "start_year": [
+      1997,
+      2004
+    ],
+    "n": 2259,
+    "positive": 513
+  },
+  "validation": {
+    "start_year": [
+      2005,
+      2006
+    ],
+    "n": 396,
+    "positive": 86
+  },
+  "test": {
+    "start_year": [
+      2007,
+      2009
+    ],
+    "n": 400,
+    "positive": 91,
+    "quadrats": 21,
+    "pastures": 6
+  },
+  "target": "any other identified polygon species at t+1 among confirmed A-only cells at t; A need not disappear",
+  "unknown_endpoint": "excluded, so predictions concern identifiable endpoint subset",
+  "pr_auc_definition": "average precision (stepwise PR integral)",
+  "paired_pasture_bootstrap_AP_delta_95": [
+    -0.12873828850489172,
+    0.031819392593145035
+  ],
+  "bootstrap_replicates": 998,
+  "limitation": "only 6 pasture clusters; conditional test-set uncertainty, not retraining uncertainty; same sites in train/test",
+  "models": {
+    "기준 모델": {
+      "features": [
+        "initial_cover",
+        "year",
+        "species",
+        "quadrat",
+        "treatment"
+      ],
+      "threshold_selection": "F1 on 2005-2006 only",
+      "iterations": [
+        35
+      ]
+    },
+    "주변 정보 추가": {
+      "features": [
+        "initial_cover",
+        "year",
+        "neighbor_other",
+        "neighbor_sp_0",
+        "neighbor_sp_1",
+        "neighbor_sp_2",
+        "neighbor_sp_3",
+        "neighbor_sp_4",
+        "neighbor_sp_5",
+        "neighbor_sp_6",
+        "neighbor_sp_7",
+        "neighbor_sp_8",
+        "neighbor_sp_9",
+        "neighbor_sp_10",
+        "neighbor_sp_11",
+        "neighbor_sp_12",
+        "neighbor_sp_13",
+        "neighbor_sp_14",
+        "neighbor_sp_15",
+        "neighbor_sp_16",
+        "neighbor_sp_17",
+        "species",
+        "quadrat",
+        "treatment"
+      ],
+      "threshold_selection": "F1 on 2005-2006 only",
+      "iterations": [
+        65
+      ]
+    }
+  }
+}

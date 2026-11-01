@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "overview",
+    "1. 연구 개요와 데이터",
+    "2. 식물 점유 소실의 조건",
+    "3. 소실 이후 공간 변화",
+    "4. 신규 점유 예측",
+    "5. 결론 및 검증",
+    "size 5",
+    "size 20",
+    "size 10",
+    "one percent maps",
+    "no quadrats",
+    "empty prediction subset"
+  ]
+}

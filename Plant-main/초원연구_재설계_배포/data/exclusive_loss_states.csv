@@ -1,0 +1,119 @@
+species,size_cm,threshold,state,n
+Aristida longiseta,5,0.0,다각형 식물 기록 없음,9
+Aristida longiseta,5,0.0,식별 불확실 포함,34
+Aristida longiseta,5,0.0,타종 기록,33
+Aristida longiseta,5,0.01,다각형 식물 기록 없음,12
+Aristida longiseta,5,0.01,식별 불확실 포함,40
+Aristida longiseta,5,0.01,타종 기록,41
+Aristida longiseta,10,0.0,식별 불확실 포함,1
+Aristida longiseta,10,0.01,식별 불확실 포함,1
+Artemisia dracunculus,5,0.0,식별 불확실 포함,1
+Artemisia dracunculus,5,0.01,식별 불확실 포함,1
+Artemisia frigida,5,0.0,다각형 식물 기록 없음,7
+Artemisia frigida,5,0.0,식별 불확실 포함,71
+Artemisia frigida,5,0.0,타종 기록,48
+Artemisia frigida,5,0.01,다각형 식물 기록 없음,14
+Artemisia frigida,5,0.01,식별 불확실 포함,89
+Artemisia frigida,5,0.01,타종 기록,49
+Artemisia frigida,10,0.01,식별 불확실 포함,4
+Artemisia ludoviciana,5,0.0,식별 불확실 포함,3
+Artemisia ludoviciana,5,0.01,식별 불확실 포함,2
+Bouteloua gracilis,5,0.0,다각형 식물 기록 없음,1465
+Bouteloua gracilis,5,0.0,식별 불확실 포함,1648
+Bouteloua gracilis,5,0.0,타종 기록,936
+Bouteloua gracilis,5,0.01,다각형 식물 기록 없음,1857
+Bouteloua gracilis,5,0.01,식별 불확실 포함,2038
+Bouteloua gracilis,5,0.01,타종 기록,938
+Bouteloua gracilis,10,0.0,다각형 식물 기록 없음,25
+Bouteloua gracilis,10,0.0,식별 불확실 포함,94
+Bouteloua gracilis,10,0.0,타종 기록,75
+Bouteloua gracilis,10,0.01,다각형 식물 기록 없음,58
+Bouteloua gracilis,10,0.01,식별 불확실 포함,159
+Bouteloua gracilis,10,0.01,타종 기록,90
+Bouteloua gracilis,20,0.0,식별 불확실 포함,3
+Bouteloua gracilis,20,0.0,타종 기록,1
+Bouteloua gracilis,20,0.01,식별 불확실 포함,8
+Bouteloua gracilis,20,0.01,타종 기록,1
+Buchloe dactyloides,5,0.0,다각형 식물 기록 없음,84
+Buchloe dactyloides,5,0.0,식별 불확실 포함,379
+Buchloe dactyloides,5,0.0,타종 기록,495
+Buchloe dactyloides,5,0.01,다각형 식물 기록 없음,116
+Buchloe dactyloides,5,0.01,식별 불확실 포함,425
+Buchloe dactyloides,5,0.01,타종 기록,503
+Buchloe dactyloides,10,0.0,다각형 식물 기록 없음,1
+Buchloe dactyloides,10,0.0,식별 불확실 포함,24
+Buchloe dactyloides,10,0.0,타종 기록,44
+Buchloe dactyloides,10,0.01,다각형 식물 기록 없음,2
+Buchloe dactyloides,10,0.01,식별 불확실 포함,40
+Buchloe dactyloides,10,0.01,타종 기록,55
+Buchloe dactyloides,20,0.01,식별 불확실 포함,1
+Buchloe dactyloides,20,0.01,타종 기록,2
+Carex eleocharis,5,0.0,다각형 식물 기록 없음,1
+Carex eleocharis,5,0.0,식별 불확실 포함,39
+Carex eleocharis,5,0.0,타종 기록,25
+Carex eleocharis,5,0.01,다각형 식물 기록 없음,3
+Carex eleocharis,5,0.01,식별 불확실 포함,32
+Carex eleocharis,5,0.01,타종 기록,9
+Carex eleocharis,10,0.0,식별 불확실 포함,5
+Carex eleocharis,10,0.01,식별 불확실 포함,5
+Carex filifolia,5,0.0,식별 불확실 포함,1
+Carex filifolia,5,0.01,식별 불확실 포함,1
+Ceratoides lanata,5,0.0,다각형 식물 기록 없음,2
+Ceratoides lanata,5,0.0,식별 불확실 포함,5
+Ceratoides lanata,5,0.0,타종 기록,1
+Ceratoides lanata,5,0.01,다각형 식물 기록 없음,3
+Ceratoides lanata,5,0.01,식별 불확실 포함,7
+Eriogonum effusum,5,0.0,타종 기록,2
+Eriogonum effusum,5,0.01,타종 기록,2
+Monroa squarrosa,5,0.0,타종 기록,1
+Monroa squarrosa,5,0.01,타종 기록,2
+Muhlenbergia torreyi,5,0.0,다각형 식물 기록 없음,1
+Muhlenbergia torreyi,5,0.0,식별 불확실 포함,2
+Muhlenbergia torreyi,5,0.0,타종 기록,8
+Muhlenbergia torreyi,5,0.01,다각형 식물 기록 없음,1
+Muhlenbergia torreyi,5,0.01,식별 불확실 포함,4
+Muhlenbergia torreyi,5,0.01,타종 기록,9
+Schedonnardus paniculatus,5,0.0,다각형 식물 기록 없음,6
+Schedonnardus paniculatus,5,0.0,식별 불확실 포함,15
+Schedonnardus paniculatus,5,0.0,타종 기록,16
+Schedonnardus paniculatus,5,0.01,다각형 식물 기록 없음,9
+Schedonnardus paniculatus,5,0.01,식별 불확실 포함,19
+Schedonnardus paniculatus,5,0.01,타종 기록,17
+Schedonnardus paniculatus,10,0.0,식별 불확실 포함,1
+Schedonnardus paniculatus,10,0.01,식별 불확실 포함,2
+Sitanion hystrix,5,0.0,다각형 식물 기록 없음,36
+Sitanion hystrix,5,0.0,식별 불확실 포함,38
+Sitanion hystrix,5,0.0,타종 기록,121
+Sitanion hystrix,5,0.01,다각형 식물 기록 없음,54
+Sitanion hystrix,5,0.01,식별 불확실 포함,45
+Sitanion hystrix,5,0.01,타종 기록,140
+Sitanion hystrix,10,0.0,식별 불확실 포함,2
+Sitanion hystrix,10,0.0,타종 기록,1
+Sitanion hystrix,10,0.01,다각형 식물 기록 없음,1
+Sitanion hystrix,10,0.01,식별 불확실 포함,3
+Sitanion hystrix,10,0.01,타종 기록,10
+Sporobolus cryptandrus,5,0.0,다각형 식물 기록 없음,117
+Sporobolus cryptandrus,5,0.0,식별 불확실 포함,79
+Sporobolus cryptandrus,5,0.0,타종 기록,148
+Sporobolus cryptandrus,5,0.01,다각형 식물 기록 없음,114
+Sporobolus cryptandrus,5,0.01,식별 불확실 포함,72
+Sporobolus cryptandrus,5,0.01,타종 기록,144
+Sporobolus cryptandrus,10,0.0,다각형 식물 기록 없음,3
+Sporobolus cryptandrus,10,0.0,식별 불확실 포함,3
+Sporobolus cryptandrus,10,0.0,타종 기록,3
+Sporobolus cryptandrus,10,0.01,다각형 식물 기록 없음,3
+Sporobolus cryptandrus,10,0.01,식별 불확실 포함,7
+Sporobolus cryptandrus,10,0.01,타종 기록,7
+Stipa comata,5,0.0,다각형 식물 기록 없음,97
+Stipa comata,5,0.0,식별 불확실 포함,173
+Stipa comata,5,0.0,타종 기록,174
+Stipa comata,5,0.01,다각형 식물 기록 없음,105
+Stipa comata,5,0.01,식별 불확실 포함,171
+Stipa comata,5,0.01,타종 기록,182
+Stipa comata,10,0.0,다각형 식물 기록 없음,2
+Stipa comata,10,0.0,식별 불확실 포함,26
+Stipa comata,10,0.0,타종 기록,10
+Stipa comata,10,0.01,다각형 식물 기록 없음,2
+Stipa comata,10,0.01,식별 불확실 포함,23
+Stipa comata,10,0.01,타종 기록,10
+Stipa comata,20,0.0,식별 불확실 포함,1

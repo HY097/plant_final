@@ -1,0 +1,9 @@
+{
+  "species": "Bouteloua gracilis",
+  "quadrat": "ungz_19",
+  "year": 2009,
+  "initial_cells": 93,
+  "loss_rate": 0.010752688172043012,
+  "eligible_median": 0.010752688172043012,
+  "rule": "Highest total polygon cover species; among pairs with >=50 occupied cells, closest to median pair loss rate; ties sorted by quadrat then year."
+}

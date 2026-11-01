@@ -1,0 +1,57 @@
+feature,coefficient
+numeric__initial_cover,-0.2194582792753843
+numeric__year,-0.15386291531372984
+numeric__neighbor_other,0.3384207313266465
+numeric__neighbor_sp_0,0.06017603807937775
+numeric__neighbor_sp_1,-0.017034503913727156
+numeric__neighbor_sp_2,0.005876221043538412
+numeric__neighbor_sp_3,0.03470555026960284
+numeric__neighbor_sp_4,0.0
+numeric__neighbor_sp_5,-0.4541648302722319
+numeric__neighbor_sp_6,-0.3662778995588596
+numeric__neighbor_sp_7,0.1105991582914292
+numeric__neighbor_sp_8,0.0
+numeric__neighbor_sp_9,-0.1037990195734786
+numeric__neighbor_sp_10,0.0802936001219595
+numeric__neighbor_sp_11,0.2234641247050162
+numeric__neighbor_sp_12,-0.01124326616188316
+numeric__neighbor_sp_13,0.0
+numeric__neighbor_sp_14,0.022387265634486026
+numeric__neighbor_sp_15,-0.1210892567654859
+numeric__neighbor_sp_16,-0.042197236319889184
+numeric__neighbor_sp_17,0.0916238160332652
+category__species_Aristida longiseta,0.26710786609523735
+category__species_Artemisia frigida,0.3754927807520058
+category__species_Bouteloua gracilis,-0.689121588761269
+category__species_Buchloe dactyloides,-1.2956425748408824
+category__species_Sitanion hystrix,0.7790071817973059
+category__species_Sporobolus cryptandrus,-0.0899794766403504
+category__species_Stipa comata,0.4845906382706225
+category__quadrat_gzgz_11,-0.48027007247434417
+category__quadrat_gzgz_19,0.2450635600544278
+category__quadrat_gzgz_24,1.3022978563830419
+category__quadrat_gzgz_5a,-1.2616576912503954
+category__quadrat_gzgz_5b,0.32656784973006375
+category__quadrat_gzgz_7,0.16016239326784493
+category__quadrat_gzun_11,0.04192450280267831
+category__quadrat_gzun_19,0.5948918474487691
+category__quadrat_gzun_24,2.35476654573554
+category__quadrat_gzun_5a,-1.992000252926466
+category__quadrat_gzun_5b,-0.6873520790050724
+category__quadrat_gzun_7,-0.40421109365678537
+category__quadrat_ungz_11,0.29458085163524483
+category__quadrat_ungz_19,0.05126993727933646
+category__quadrat_ungz_24,0.9974559970663802
+category__quadrat_ungz_5a,-1.1631565561113772
+category__quadrat_ungz_5b,-0.6632880470757183
+category__quadrat_ungz_7,0.23149836023118547
+category__quadrat_unun_11,-1.450137974437128
+category__quadrat_unun_19,-1.5887506224844261
+category__quadrat_unun_24,2.7735224148786517
+category__quadrat_unun_5a,-0.5988445486946252
+category__quadrat_unun_5b,0.2663039955978016
+category__quadrat_unun_7,0.48081765267804566
+category__treatment_gzgz,0.2921638957106334
+category__treatment_gzun,-0.09198052960132566
+category__treatment_ungz,-0.25163945697494994
+category__treatment_unun,-0.11708908246169084

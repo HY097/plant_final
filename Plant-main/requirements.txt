@@ -1,0 +1,6 @@
+# Tested by original Codex environment; cloud installs these on deployment.
+numpy>=2.0,<3
+pandas>=2.2,<4
+pyarrow>=17,<27
+plotly>=6.0,<8
+streamlit>=1.45,<2

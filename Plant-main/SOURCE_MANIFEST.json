@@ -1,0 +1,9 @@
+{
+  "supplied_raw_archive": "shapefiles.zip",
+  "sha256": "3b4094a991ccfe2751f6ca50d16210819c136fa943d9ad25a373080faac8cb88",
+  "shapefile_bundles": 647,
+  "dbf_records": {"polygon": 105155, "point": 28243, "total": 133398},
+  "audit": "DBF header count and .shp/.shx/.dbf presence; no full geometric reprocessing",
+  "processed_data_source": "User-supplied prior Codex redesign bundle; model and grid parquet files preserved",
+  "raw_archive_included_in_lite_bundle": false
+}

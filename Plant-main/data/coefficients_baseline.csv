@@ -1,0 +1,38 @@
+feature,coefficient
+numeric__initial_cover,-0.208210970692698
+numeric__year,-0.12384791277389545
+category__species_Aristida longiseta,0.1835633947214833
+category__species_Artemisia frigida,0.5634989062474651
+category__species_Bouteloua gracilis,-1.2951717633716768
+category__species_Buchloe dactyloides,-1.301252589803564
+category__species_Sitanion hystrix,0.7196146899580443
+category__species_Sporobolus cryptandrus,-0.01574934520767782
+category__species_Stipa comata,1.0683199960053935
+category__quadrat_gzgz_11,-0.25146550444140575
+category__quadrat_gzgz_19,0.20803277706592746
+category__quadrat_gzgz_24,1.103331605888289
+category__quadrat_gzgz_5a,-1.3728800807841044
+category__quadrat_gzgz_5b,0.16096769332564106
+category__quadrat_gzgz_7,0.4334572766338822
+category__quadrat_gzun_11,0.12344841294161889
+category__quadrat_gzun_19,0.814613625337022
+category__quadrat_gzun_24,2.3104277707389036
+category__quadrat_gzun_5a,-2.164503189071884
+category__quadrat_gzun_5b,-0.8042356128998616
+category__quadrat_gzun_7,-0.427636315070049
+category__quadrat_ungz_11,0.25833589761787357
+category__quadrat_ungz_19,0.15139683809815857
+category__quadrat_ungz_24,1.3335311102766358
+category__quadrat_ungz_5a,-1.4070292041282766
+category__quadrat_ungz_5b,-0.9604912149908059
+category__quadrat_ungz_7,0.5504083933621482
+category__quadrat_unun_11,-1.5221173708064266
+category__quadrat_unun_19,-0.9189946784424597
+category__quadrat_unun_24,2.625117654157083
+category__quadrat_unun_5a,-0.8350545461000454
+category__quadrat_unun_5b,0.19741078552345404
+category__quadrat_unun_7,0.31675116431815264
+category__treatment_gzgz,0.2814437676882282
+category__treatment_gzun,-0.14788530802424943
+category__treatment_ungz,-0.07384817976426515
+category__treatment_unun,-0.13688699135024673
